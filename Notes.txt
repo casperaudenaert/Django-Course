@@ -1,0 +1,3 @@
+Open project interpreter
+View -> Command Palette -> Python interpreter
+# to find the interpreter of the project type "pipenv --venv" in a terminal copy that directory and add "/bin/python" at the end
