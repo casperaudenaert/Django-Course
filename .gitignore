@@ -1,4 +1,5 @@
 Pipfile
 Pipfile.lock
 .vscode
-__pycache__
+**/__pycache__/
+storefront/__pycache__/
